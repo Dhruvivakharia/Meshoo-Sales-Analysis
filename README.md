@@ -2,7 +2,7 @@
 Complete Meesho Sales Dashboard Project (Python , Excel , Tableau , PPT , PDF)
 # 📊 Meesho Sales Analysis Project
 
-This project analyzes **Meesho Sales Data (50k records)** using multiple tools and presents insights with dashboards.
+This project performs detailed analysis of Meesho sales data (50K+ records) using Python, Excel, and Tableau to generate meaningful business insights.
 
 ---
 
@@ -41,5 +41,5 @@ This project analyzes **Meesho Sales Data (50k records)** using multiple tools a
 4. View PDF/PNG/PPT for presentation-ready visuals  
 
 ---
-
-🚀 *Created by Veer Wakhariya*
+Data Analysis project by: 
+🚀 *Created by Dhruvi Vakharia*
