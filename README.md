@@ -41,5 +41,5 @@ This project performs detailed analysis of Meesho sales data (50K+ records) usin
 4. View PDF/PNG/PPT for presentation-ready visuals  
 
 ---
-Data Analysis project by: 
+Data Analysis project : 
 🚀 *Created by Dhruvi Vakharia*
